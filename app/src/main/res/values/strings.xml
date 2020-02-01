@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jurnal II</string>
+    <string name="nama">Nama</string>
+    <string name="nilai_praktikum">Nilai Praktikum</string>
+    <string name="nilai_assessment_1">Nilai Assessment 1</string>
+    <string name="nilai_assessment2">Nilai Assessment2</string>
+    <string name="absensi_75"><![CDATA[Absensi <= 75%]]></string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="hitung_nilai_akhir">hitung nilai akhir</string>
+    <string name="reset">reset</string>
+    <string name="total">Nilai Akhir</string>
+    <string name="a">A</string>
+</resources>
